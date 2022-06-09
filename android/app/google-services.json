@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1044114937746",
+    "project_id": "aju-application",
+    "storage_bucket": "aju-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044114937746:android:1e1a58fbea4baf24ae934b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.ajuapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044114937746-3khn55tf1ocp7cqaeejjeksgsbmiurpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMbV5LnjNFCVX4rlwvuAYNconIhpJbM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044114937746-3khn55tf1ocp7cqaeejjeksgsbmiurpr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044114937746-3cdmq344mpbrkhtrn75c8k161n32jicp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.ajuapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
